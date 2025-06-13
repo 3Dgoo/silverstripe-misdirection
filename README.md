@@ -6,7 +6,7 @@ _The current release is **3.1.1**_
 
 ## Requirement
 
-* Silverstripe 3.1, 4 or 5
+* Silverstripe 6
 
 This module does **not** require the CMS.
 
